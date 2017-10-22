@@ -1,0 +1,2 @@
+# InsuranceCalculator
+Calculates car insurance
